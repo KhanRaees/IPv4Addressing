@@ -6,7 +6,7 @@ ipaddressing.py is a python module that provides function(s) to calculate the fo
 - Total IPs and Usable IPs
 - Subnet Mask
 - Wildcard Mask
-- Class of the Network
+
 
 ## Installation
 You may copy ipaddressing.py in Python Library folder.
